@@ -1,0 +1,14 @@
+{
+    "name": "xiangzhiping/php-jquery",
+    "description": "parse html like jquery",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Parse\\": "src/"
+        },
+        "files" : [
+            "src/fun.php"
+        ]
+    }
+}
